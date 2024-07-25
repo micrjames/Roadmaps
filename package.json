@@ -1,7 +1,7 @@
 {
-   "name": "webpack-starter",
+   "name": "Roadmaps",
    "version": "1.0.0",
-   "description": "A webpack starter framework",
+   "description": "A To-do list app that functions through a roadmap structure.",
    "main": "index.js",
    "directories": {
       "test": "tests"
